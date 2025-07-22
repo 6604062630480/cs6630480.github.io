@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lab1 no.1</title>
+</head>
+<body>
+    <h1>Web Developer</h1>
+    <h2>Front-End Developer</h2>
+    <p><b>ภาษาพื้นฐานที่ควรรู้:</b><i> HTML,CSS,JavaScript</i></p>
+    <p><b>Framework ที่ควรรู้:</b><i> React,Argular,Vue.js</i></p>
+    <h2>Back-End Developer</h2>
+    <p><b>ภาษาพื้นฐานที่ควรรู้:</b><i> PHP,JS,SQL,Java</i></p>
+    <p><b>Framework ที่ควรรู้:</b><i> Laravel,Node.js,Spring</i></p>
+    <p>ลองใช้สัญลักษณืนี้ดูสิ</p>
+    <h1><i>&#8747; &#402;(x) dx &#61; 5x&#178; + x | x - 1 |</i>  </h1>
+</body>
+</html>
